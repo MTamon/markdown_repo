@@ -1,3 +1,8 @@
+# Dataset's Parameter
+ - Session Number：478
+ - Total Duration：90 [h]
+ - Total Participant：25
+
 # Turntake Analysis
 
 ## Turn Duration
